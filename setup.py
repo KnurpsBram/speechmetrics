@@ -17,7 +17,7 @@ setup(
         'museval',
         'gammatone @ git+https://github.com/detly/gammatone',
         'pypesq @ git+https://github.com/vBaiCai/python-pesq',
-        'srmrpy @ git+https://github.com/jfsantos/SRMRpy',
+        'srmrpy @ git+https://github.com/KnurpsBram/SRMRpy',
     ],
     extras_require={
         'cpu': ['tensorflow', 'librosa'],
